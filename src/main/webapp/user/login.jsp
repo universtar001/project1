@@ -9,7 +9,7 @@
 
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
-<! DOCTYPE HTML PUBLIC "-//w3C//DTD HTML4.01 Transitions1//EN">
+<!DOCTYPE HTML PUBLIC "-//w3C//DTD HTML4.01 Transitions1//EN">
 <html>
 <head>
     <title>Title</title>
